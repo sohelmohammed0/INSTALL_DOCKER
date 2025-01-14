@@ -1,4 +1,4 @@
-# Docker Installation Script ReadMe
+# Docker Installation Script
 
 This guide provides step-by-step instructions to install Docker on an Ubuntu system using a simple shell script. The script updates packages, installs Docker, and configures the system to allow Docker commands to be run without `sudo`.
 
