@@ -19,7 +19,7 @@ This guide provides step-by-step instructions to install Docker on an Ubuntu sys
 ### 1. Download the Script
 Create a new file to hold the script:
 ```bash
-nano install_docker.sh
+vi install_docker.sh
 ```
 Copy and paste the script below into the file:
 ```bash
