@@ -49,7 +49,9 @@ sudo usermod -aG docker $USER
 # Print Docker version to verify installation
 docker --version
 
+# Exit and re-login
 echo "Docker installation is complete. Please log out and back in or restart your session for the group changes to take effect."
+exit
 ```
 Save and exit the editor by pressing `CTRL+O`, `Enter`, and `CTRL+X`.
 
